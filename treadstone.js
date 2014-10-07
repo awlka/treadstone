@@ -7,11 +7,13 @@ var Treadstone = (function (window, document, undefined) {
 
   'use strict';
   
-  var Treadstone = {};
+ var Treadstone = {};
   
-  // Start Treadstone
-  Treadstone.init = function () {
+ // Start Treadstone
+ Treadstone.init = function () {
    
-  };
+ };
+
+ return Treadstone.init();
 
 })();
