@@ -16,4 +16,4 @@ var Treadstone = (function (window, document, undefined) {
 
  return Treadstone.init();
 
-})();
+})(window, document);
